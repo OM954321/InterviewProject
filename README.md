@@ -1,5 +1,5 @@
-Include a readme which explains how to execute your tests?
- Answer: To run this project: First open this project in any IDE (netbeans, Eclipse or Intellij) you want. 
+
+To run this project: First open this project in any IDE (netbeans, Eclipse or Intellij) you want. 
 Second thing is I have added the Libraries folder in it, Add all libraries in the projects. 
 Third in SignUp and SignIn Class, there is a @BeforeTest Method in which I am initializing the driver. 
 I have created a Folder called 'Drivers' in the project. Get the path of that folder and replace it in both classes
